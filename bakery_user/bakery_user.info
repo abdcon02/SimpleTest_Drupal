@@ -1,5 +1,5 @@
 name = Bakery User
-description = Handles custom user login tasks for Cameron's Bakery.
+description = Handles custom user login task for Cameron's Bakery.
 package = Epicodus Examples
 core = 7.x
 dependencies[] = simpletest
