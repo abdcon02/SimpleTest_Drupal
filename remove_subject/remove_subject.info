@@ -1,0 +1,7 @@
+name = Remove Subject
+description = Removes the subject line from the welcome page comment form
+package = Modifications
+core = 7.x
+dependencies[] = simpletest
+files[] = remove_subject.module
+files[] = remove_subject.test
